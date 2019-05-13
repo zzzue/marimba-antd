@@ -77,6 +77,19 @@ export default {
   // https://ant.design/docs/react/customize-theme-cn
   theme: {
     'primary-color': primaryColor,
+    'background-color-light': '#000',
+    'text-color': 'rgba(255, 255, 255, 0.65)',
+    'text-color-secondary': '#de5285',
+    'link-color': primaryColor,
+    'layout-header-background': '#000',
+    'layout-sider-background': '#000',
+    'menu-dark-bg': '#000',
+    'menu-dark-submenu-bg': '#141414',
+    'menu-dark-item-active-bg': '#de5285',
+    'item-active-bg': '#de5285',
+    'layout-body-background': '#141414',
+    'pro-header-hover-bg': '#1b1b1b',
+    'menu-highlight-color': '#1b1b1b',
   },
   // proxy: {
   //   '/server/api/': {
