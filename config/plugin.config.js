@@ -44,7 +44,8 @@ export default config => {
       {
         antDir: path.join(__dirname, '../node_modules/antd'),
         stylesDir,
-        varFile: path.join(__dirname, '../node_modules/antd/lib/style/themes/default.less'),
+        //varFile: path.join(__dirname, '../node_modules/antd/lib/style/themes/default.less'),
+        varFile: path.join(__dirname, '../src/themes/default.less'),
         mainLessFile: outFile, //     themeVariables: ['@primary-color'],
         indexFileName: 'index.html',
         generateOne: true,
