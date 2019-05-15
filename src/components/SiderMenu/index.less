@@ -1,4 +1,5 @@
 @import '~antd/lib/style/themes/default.less';
+@import '~@/themes/default.less';
 
 @nav-header-height: @layout-header-height;
 
@@ -8,7 +9,7 @@
   padding-left: (@menu-collapsed-width - 32px) / 2;
   overflow: hidden;
   line-height: @nav-header-height;
-  background: #000;
+  background: @menu-dark-bg;
   transition: all 0.3s;
   img {
     display: inline-block;
@@ -29,7 +30,17 @@
   position: relative;
   z-index: 10;
   min-height: 100vh;
+  background: @layout-sider-background;
   box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
+  :global {
+    .ant-menu-dark {
+      background: @menu-dark-bg;
+    }
+    .ant-menu-sub {
+      background: @menu-dark-submenu-bg;
+    }
+  }
+
   &.fixSiderBar {
     position: fixed;
     top: 0;
@@ -59,8 +70,13 @@
         color: @primary-color;
       }
     }
-    :global(.ant-menu-light) {
-      border-right-color: transparent;
+    :global {
+      .ant-menu-light {
+        border-right-color: transparent;
+      }
+      .ant-menu-sub {
+        background: @menu-bg;
+      }
     }
   }
 }

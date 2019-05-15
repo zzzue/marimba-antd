@@ -1,4 +1,5 @@
 @import '~antd/lib/style/themes/default.less';
+@import '~@/themes/default.less';
 
 @pro-header-hover-bg: rgba(0, 0, 0, 0.025);
 
@@ -6,7 +7,7 @@
   position: relative;
   height: @layout-header-height;
   padding: 0;
-  background: @layout-header-background;
+  background: #fff;
   box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
 }
 
@@ -36,6 +37,7 @@
 .trigger {
   height: @layout-header-height;
   padding: ~'calc((@{layout-header-height} - 20px) / 2)' 24px;
+  color: @text-color;
   font-size: 20px;
   cursor: pointer;
   transition: all 0.3s, padding 0s;
@@ -84,6 +86,10 @@
 
 .dark {
   height: @layout-header-height;
+  background: @layout-header-dark-background;
+  .trigger {
+    color: @text-color-dark;
+  }
   .action {
     color: rgba(255, 255, 255, 0.85);
     > i {

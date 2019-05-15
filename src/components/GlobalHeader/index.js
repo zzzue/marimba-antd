@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Icon } from 'antd';
+import classNames from 'classnames';
 import Link from 'umi/link';
 import Debounce from 'lodash-decorators/debounce';
 import styles from './index.less';
@@ -23,9 +24,12 @@ export default class GlobalHeader extends PureComponent {
     this.triggerResizeEvent();
   };
   render() {
-    const { collapsed, isMobile, logo } = this.props;
+    const { collapsed, isMobile, logo, theme } = this.props;
+    const headerClassName = classNames(styles.header, {
+      [styles.dark]: theme === 'dark',
+    });
     return (
-      <div className={styles.header}>
+      <div className={headerClassName}>
         {isMobile && (
           <Link to="/" className={styles.logo} key="logo">
             <img src={logo} alt="logo" width="32" />

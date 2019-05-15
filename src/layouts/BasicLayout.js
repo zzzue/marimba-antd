@@ -134,6 +134,7 @@ class BasicLayout extends React.Component {
         >
           <Header
             menuData={menuData}
+            theme={navTheme}
             handleMenuCollapse={this.handleMenuCollapse}
             logo={logo}
             isMobile={isMobile}
