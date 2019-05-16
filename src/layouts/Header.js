@@ -136,6 +136,7 @@ class HeaderView extends Component {
           />
         ) : (
           <GlobalHeader
+            theme={navTheme}
             onCollapse={handleMenuCollapse}
             onNoticeClear={this.handleNoticeClear}
             onMenuClick={this.handleMenuClick}

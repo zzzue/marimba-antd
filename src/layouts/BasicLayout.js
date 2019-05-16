@@ -114,6 +114,9 @@ class BasicLayout extends React.Component {
 
     const isTop = PropsLayout === 'topmenu';
     const contentStyle = !fixedHeader ? { paddingTop: 0 } : {};
+    const bodyClassName = classNames({
+      [styles.dark]: navTheme=== 'dark',
+    });
     const layout = (
       <Layout>
         {isTop && !isMobile ? null : (
@@ -127,6 +130,8 @@ class BasicLayout extends React.Component {
           />
         )}
         <Layout
+          className={bodyClassName}
+          theme={navTheme}
           style={{
             ...this.getLayoutStyle(),
             minHeight: '100vh',
@@ -134,7 +139,6 @@ class BasicLayout extends React.Component {
         >
           <Header
             menuData={menuData}
-            theme={navTheme}
             handleMenuCollapse={this.handleMenuCollapse}
             logo={logo}
             isMobile={isMobile}
@@ -143,7 +147,9 @@ class BasicLayout extends React.Component {
           <Content className={styles.content} style={contentStyle}>
             {children}
           </Content>
-          <Footer />
+          <Footer 
+            theme={navTheme} 
+          />
         </Layout>
       </Layout>
     );

@@ -29,17 +29,7 @@
   position: relative;
   z-index: 10;
   min-height: 100vh;
-  background: @layout-sider-background;
   box-shadow: 2px 0 6px rgba(0, 21, 41, 0.35);
-  :global {
-    .ant-menu-dark {
-      background: @menu-dark-bg;
-    }
-    .ant-menu-sub {
-      background: @menu-dark-submenu-bg;
-    }
-  }
-
   &.fixSiderBar {
     position: fixed;
     top: 0;
@@ -69,13 +59,8 @@
         color: @primary-color;
       }
     }
-    :global {
-      .ant-menu-light {
-        border-right-color: transparent;
-      }
-      .ant-menu-sub {
-        background: @menu-bg;
-      }
+    :global(.ant-menu-light) {
+      border-right-color: transparent;
     }
   }
 }
