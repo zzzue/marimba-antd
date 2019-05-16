@@ -78,7 +78,7 @@ export default {
   // https://ant.design/docs/react/customize-theme-cn
   theme: {
     'primary-color': primaryColor,
-    ...themes
+    ...themes,
   },
   // proxy: {
   //   '/server/api/': {

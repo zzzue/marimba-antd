@@ -69,5 +69,4 @@ export default {
   'app.setting.themecolor.TERIGAKI': '照柿',
   'app.setting.themecolor.EDOCHA': '江戸茶',
   'app.setting.themecolor.ARAISYU': '洗朱',
-  
 };

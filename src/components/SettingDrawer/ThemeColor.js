@@ -217,739 +217,737 @@ const ThemeColor = ({ colors, title, value, onChange }) => {
 
       {
         key: 'MOMOSHIOCHA',
-        color: '#724938', // 
+        color: '#724938', //
       },
       {
         key: 'KARACHA',
-        color: '#B47157', // 
+        color: '#B47157', //
       },
       {
         key: 'TOKIGARACHA',
-        color: '#DB8E71', // 
+        color: '#DB8E71', //
       },
       {
         key: 'OHNI',
-        color: '#F05E1C', // 
+        color: '#F05E1C', //
       },
       {
         key: 'SOHI',
-        color: '#ED784A', // 
+        color: '#ED784A', //
       },
       {
         key: 'ENSYUCHA',
-        color: '#CA7853', // 
+        color: '#CA7853', //
       },
       {
         key: 'KABACHA',
-        color: '#B35C37', // 
+        color: '#B35C37', //
       },
       {
         key: 'KOGECHA',
-        color: '#563F2E', // 
+        color: '#563F2E', //
       },
       {
         key: 'AKAKOH',
-        color: '#E3916E', // 
+        color: '#E3916E', //
       },
       {
         key: 'SUZUMECHA',
-        color: '#8F5A3C', // 
+        color: '#8F5A3C', //
       },
       {
         key: 'SHISHI',
-        color: '#F0A986', // 
+        color: '#F0A986', //
       },
       {
         key: 'SODENKARACHA',
-        color: '#A0674B', // 
+        color: '#A0674B', //
       },
       {
         key: 'KABA',
-        color: '#C1693C', // 
+        color: '#C1693C', //
       },
       {
         key: 'KOKIKUCHINASHI',
-        color: '#FB9966', // 
+        color: '#FB9966', //
       },
       {
         key: 'KURUMI',
-        color: '#947A6D', // 
+        color: '#947A6D', //
       },
       {
         key: 'TAISYA',
-        color: '#A36336', // 
+        color: '#A36336', //
       },
       {
         key: 'ARAIGAKI',
-        color: '#E79460', // 
+        color: '#E79460', //
       },
       {
         key: 'KOHROZEN',
-        color: '#7D532C', // 
+        color: '#7D532C', //
       },
       {
         key: 'AKAKUCHIBA',
-        color: '#C78550', // 
+        color: '#C78550', //
       },
       {
         key: 'TONOCHA',
-        color: '#985F2A', // 
+        color: '#985F2A', //
       },
       {
         key: 'AKASHIROTSURUBAMI',
-        color: '#E1A679', // 
+        color: '#E1A679', //
       },
       {
         key: 'SENCHA',
-        color: '#855B32', // 
+        color: '#855B32', //
       },
       {
         key: 'KANZO',
-        color: '#FC9F4D', // 
+        color: '#FC9F4D', //
       },
       {
         key: 'SHAREGAKI',
-        color: '#FFBA84', // 
+        color: '#FFBA84', //
       },
       {
         key: 'BENIUKON',
-        color: '#E98B2A', // 
+        color: '#E98B2A', //
       },
       {
         key: 'UMEZOME',
-        color: '#E9A368', // 
+        color: '#E9A368', //
       },
       {
         key: 'BIWACHA',
-        color: '#B17844', // 
+        color: '#B17844', //
       },
       {
         key: 'CHOJICHA',
-        color: '#96632E', // 
+        color: '#96632E', //
       },
       {
         key: 'KENPOHZOME',
-        color: '#43341B', // 
+        color: '#43341B', //
       },
       {
         key: 'KOHAKU',
-        color: '#CA7A2C', // 
+        color: '#CA7A2C', //
       },
       {
         key: 'USUGAKI',
-        color: '#ECB88A', // 
+        color: '#ECB88A', //
       },
       {
         key: 'KYARA',
-        color: '#78552B', // 
+        color: '#78552B', //
       },
       {
         key: 'CHOJIZOME',
-        color: '#B07736', // 
+        color: '#B07736', //
       },
       {
         key: 'FUSHIZOME',
-        color: '#967249', // 
+        color: '#967249', //
       },
       {
         key: 'KUCHIBA',
-        color: '#E2943B', // 
+        color: '#E2943B', //
       },
       {
         key: 'KINCHA',
-        color: '#C7802D', // 
+        color: '#C7802D', //
       },
       {
         key: 'KITSUNE',
-        color: '#9B6E23', // 
+        color: '#9B6E23', //
       },
       {
         key: 'SUSUTAKE',
-        color: '#6E552F', // 
+        color: '#6E552F', //
       },
       {
         key: 'USUKOH',
-        color: '#EBB471', // 
+        color: '#EBB471', //
       },
       {
         key: 'TONOKO',
-        color: '#D7B98E', // 
+        color: '#D7B98E', //
       },
       {
         key: 'GINSUSUTAKE',
-        color: '#82663A', // 
+        color: '#82663A', //
       },
       {
         key: 'OHDO',
-        color: '#B68E55', // 
+        color: '#B68E55', //
       },
       {
         key: 'SHIRACHA',
-        color: '#BC9F77', // 
+        color: '#BC9F77', //
       },
       {
         key: 'KOBICHA',
-        color: '#876633', // 
+        color: '#876633', //
       },
       {
         key: 'KIGARACHA',
-        color: '#C18A26', // 
+        color: '#C18A26', //
       },
       {
         key: 'YAMABUKI',
-        color: '#FFB11B', // 
+        color: '#FFB11B', //
       },
       {
         key: 'YAMABUKICHA',
-        color: '#D19826', // 
+        color: '#D19826', //
       },
       {
         key: 'HAJIZOME',
-        color: '#DDA52D', // 
+        color: '#DDA52D', //
       },
       {
         key: 'KUWACHA',
-        color: '#C99833', // 
+        color: '#C99833', //
       },
       {
         key: 'TAMAGO',
-        color: '#F9BF45', // 
+        color: '#F9BF45', //
       },
       {
         key: 'SHIROTSURUBAMI',
-        color: '#DCB879', // 
+        color: '#DCB879', //
       },
       {
         key: 'KITSURUBAMI',
-        color: '#BA9132', // 
+        color: '#BA9132', //
       },
       {
         key: 'TAMAMOROKOSHI',
-        color: '#E8B647', // 
+        color: '#E8B647', //
       },
       {
         key: 'HANABA',
-        color: '#F7C242', // 
+        color: '#F7C242', //
       },
       {
         key: 'NAMAKABE',
-        color: '#7D6C46', // 
+        color: '#7D6C46', //
       },
       {
         key: 'TORINOKO',
-        color: '#DAC9A6', // 
+        color: '#DAC9A6', //
       },
       {
         key: 'USUKI',
-        color: '#FAD689', // 
+        color: '#FAD689', //
       },
       {
         key: 'KIKUCHIBA',
-        color: '#D9AB42', // 
+        color: '#D9AB42', //
       },
       {
         key: 'KUCHINASHI',
-        color: '#F6C555', // 
+        color: '#F6C555', //
       },
       {
         key: 'TOHOH',
-        color: '#FFC408', // 
+        color: '#FFC408', //
       },
       {
         key: 'UKON',
-        color: '#EFBB24', // 
+        color: '#EFBB24', //
       },
       {
         key: 'KARASHI',
-        color: '#CAAD5F', // 
+        color: '#CAAD5F', //
       },
       {
         key: 'HIGOSUSUTAKE',
-        color: '#8D742A', // 
+        color: '#8D742A', //
       },
       {
         key: 'RIKYUSHIRACHA',
-        color: '#B4A582', // 
+        color: '#B4A582', //
       },
       {
         key: 'AKU',
-        color: '#877F6C', // 
+        color: '#877F6C', //
       },
       {
         key: 'RIKYUCHA',
-        color: '#897D55', // 
+        color: '#897D55', //
       },
       {
         key: 'ROKOHCHA',
-        color: '#74673E', // 
+        color: '#74673E', //
       },
       {
         key: 'NATANEYU',
-        color: '#A28C37', // 
+        color: '#A28C37', //
       },
       {
         key: 'UGUISUCHA',
-        color: '#6C6024', // 
+        color: '#6C6024', //
       },
       {
         key: 'UGUISUCHA',
-        color: '#6C6024', // 
+        color: '#6C6024', //
       },
       {
         key: 'KIMIRUCHA',
-        color: '#867835', // 
+        color: '#867835', //
       },
       {
         key: 'KARIYASU',
-        color: '#E9CD4C', // 
+        color: '#E9CD4C', //
       },
       {
         key: 'NANOHANA',
-        color: '#F7D94C', // 
+        color: '#F7D94C', //
       },
       {
         key: 'KIHADA',
-        color: '#FBE251', // 
+        color: '#FBE251', //
       },
       {
         key: 'MUSHIKURI',
-        color: '#D9CD90', // 
+        color: '#D9CD90', //
       },
       {
         key: 'AOKUCHIBA',
-        color: '#ADA142', // 
+        color: '#ADA142', //
       },
       {
         key: 'OMINAESHI',
-        color: '#DDD23B', // 
+        color: '#DDD23B', //
       },
       {
         key: 'HIWACHA',
-        color: '#A5A051', // 
+        color: '#A5A051', //
       },
       {
         key: 'HIWA',
-        color: '#BEC23F', // 
+        color: '#BEC23F', //
       },
       {
         key: 'UGUISU',
-        color: '#6C6A2D', // 
+        color: '#6C6A2D', //
       },
       {
         key: 'YANAGICHA',
-        color: '#939650', // 
+        color: '#939650', //
       },
       {
         key: 'KOKE',
-        color: '#838A2D', // 
+        color: '#838A2D', //
       },
       {
         key: 'KIKUJIN',
-        color: '#B1B479', // 
+        color: '#B1B479', //
       },
       {
         key: 'RIKANCHA',
-        color: '#616138', // 
-      }, 
+        color: '#616138', //
+      },
       {
         key: 'AIKOBICHA',
-        color: '#4B4E2A', // 
+        color: '#4B4E2A', //
       },
       {
         key: 'MIRU',
-        color: '#5B622E', // 
+        color: '#5B622E', //
       },
       {
         key: 'SENSAICHA',
-        color: '#4D5139', // 
+        color: '#4D5139', //
       },
       {
         key: 'BAIKOCHA',
-        color: '#89916B', // 
+        color: '#89916B', //
       },
       {
         key: 'HIWAMOEGI',
-        color: '#90B44B', // 
+        color: '#90B44B', //
       },
       {
         key: 'YANAGIZOME',
-        color: '#91AD70', // 
+        color: '#91AD70', //
       },
       {
         key: 'URAYANAGI',
-        color: '#B5CAA0', // 
+        color: '#B5CAA0', //
       },
       {
         key: 'IWAICHA',
-        color: '#646A58', // 
+        color: '#646A58', //
       },
       {
         key: 'MOEGI',
-        color: '#7BA23F', // 
+        color: '#7BA23F', //
       },
       {
         key: 'NAE',
-        color: '#86C166', // 
+        color: '#86C166', //
       },
       {
         key: 'YANAGISUSUTAKE',
-        color: '#4A593D', // 
+        color: '#4A593D', //
       },
       {
         key: 'MATSUBA',
-        color: '#42602D', // 
+        color: '#42602D', //
       },
       {
         key: 'AONI',
-        color: '#516E41', // 
+        color: '#516E41', //
       },
       {
         key: 'USUAO',
-        color: '#91B493', // 
+        color: '#91B493', //
       },
       {
         key: 'YANAGINEZUMI',
-        color: '#808F7C', // 
+        color: '#808F7C', //
       },
       {
         key: 'TOKIWA',
-        color: '#1B813E', // 
+        color: '#1B813E', //
       },
       {
         key: 'WAKATAKE',
-        color: '#5DAC81', // 
+        color: '#5DAC81', //
       },
       {
         key: 'CHITOSEMIDORI',
-        color: '#36563C', // 
+        color: '#36563C', //
       },
       {
         key: 'MIDORI',
-        color: '#227D51', // 
+        color: '#227D51', //
       },
       {
         key: 'BYAKUROKU',
-        color: '#A8D8B9', // 
+        color: '#A8D8B9', //
       },
       {
         key: 'OITAKE',
-        color: '#6A8372', // 
+        color: '#6A8372', //
       },
       {
         key: 'TOKUSA',
-        color: '#2D6D4B', // 
+        color: '#2D6D4B', //
       },
       {
         key: 'ONANDOCHA',
-        color: '#465D4C', // 
+        color: '#465D4C', //
       },
       {
         key: 'ROKUSYOH',
-        color: '#24936E', // 
+        color: '#24936E', //
       },
       {
         key: 'ABISEIJI',
-        color: '#86A697', // 
+        color: '#86A697', //
       },
       {
         key: 'AOTAKE',
-        color: '#00896C', // 
+        color: '#00896C', //
       },
       {
         key: 'VELUDO',
-        color: '#096148', // 
+        color: '#096148', //
       },
 
       {
         key: 'MUSHIAO',
-        color: '#20604F', // 
+        color: '#20604F', //
       },
       {
         key: 'AIMIRUCHA',
-        color: '#0F4C3A', // 
+        color: '#0F4C3A', //
       },
       {
         key: 'TONOCHA',
-        color: '#4F726C', // 
+        color: '#4F726C', //
       },
       {
         key: 'AOMIDORI',
-        color: '#00AA90', // 
+        color: '#00AA90', //
       },
       {
         key: 'SEIJI',
-        color: '#69B0AC', // 
+        color: '#69B0AC', //
       },
       {
         key: 'TETSU',
-        color: '#26453D', // 
+        color: '#26453D', //
       },
       {
         key: 'MIZUASAGI',
-        color: '#66BAB7', // 
+        color: '#66BAB7', //
       },
       {
         key: 'SEIHEKI',
-        color: '#268785', // 
+        color: '#268785', //
       },
       {
         key: 'SABITETSUONANDO',
-        color: '#405B55', // 
+        color: '#405B55', //
       },
       {
         key: 'KORAINANDO',
-        color: '#305A56', // 
+        color: '#305A56', //
       },
       {
         key: 'BYAKUGUN',
-        color: '#78C2C4', // 
+        color: '#78C2C4', //
       },
       {
         key: 'OMESHICHA',
-        color: '#376B6D', // 
+        color: '#376B6D', //
       },
       {
         key: 'KAMENOZOKI',
-        color: '#A5DEE4', // 
+        color: '#A5DEE4', //
       },
       {
         key: 'FUKAGAWANEZUMI',
-        color: '#77969A', // 
+        color: '#77969A', //
       },
       {
         key: 'SABIASAGI',
-        color: '#6699A1', // 
+        color: '#6699A1', //
       },
       {
         key: 'MIZU',
-        color: '#81C7D4', // 
+        color: '#81C7D4', //
       },
       {
         key: 'ASAGI',
-        color: '#33A6B8', // 
+        color: '#33A6B8', //
       },
       {
         key: 'ONANDO',
-        color: '#0C4842', // 
+        color: '#0C4842', //
       },
       {
         key: 'AI',
-        color: '#0D5661', // 
+        color: '#0D5661', //
       },
       {
         key: 'SHINBASHI',
-        color: '#0089A7', // 
+        color: '#0089A7', //
       },
       {
         key: 'SABIONANDO',
-        color: '#336774', // 
+        color: '#336774', //
       },
       {
         key: 'TETSUONANDO',
-        color: '#255359', // 
+        color: '#255359', //
       },
       {
         key: 'HANAASAGI',
-        color: '#1E88A8', // 
+        color: '#1E88A8', //
       },
       {
         key: 'AINEZUMI',
-        color: '#566C73', // 
+        color: '#566C73', //
       },
       {
         key: 'MASUHANA',
-        color: '#577C8A', // 
+        color: '#577C8A', //
       },
       {
         key: 'SORA',
-        color: '#58B2DC', // 
+        color: '#58B2DC', //
       },
       {
         key: 'NOSHIMEHANA',
-        color: '#2B5F75', // 
+        color: '#2B5F75', //
       },
       {
         key: 'CHIGUSA',
-        color: '#3A8FB7', // 
+        color: '#3A8FB7', //
       },
       {
         key: 'OMESHIONANDO',
-        color: '#2E5C6E', // 
+        color: '#2E5C6E', //
       },
       {
         key: 'HANADA',
-        color: '#006284', // 
+        color: '#006284', //
       },
       {
         key: 'WASURENAGUSA',
-        color: '#7DB9DE', // 
+        color: '#7DB9DE', //
       },
       {
         key: 'GUNJYO',
-        color: '#51A8DD', // 
+        color: '#51A8DD', //
       },
       {
         key: 'TSUYUKUSA',
-        color: '#2EA9DF', // 
+        color: '#2EA9DF', //
       },
       {
         key: 'KUROTSURUBAMI',
-        color: '#0B1013', // 
+        color: '#0B1013', //
       },
       {
         key: 'KON',
-        color: '#0F2540', // 
+        color: '#0F2540', //
       },
       {
         key: 'KACHI',
-        color: '#08192D', // 
+        color: '#08192D', //
       },
       {
         key: 'RURI',
-        color: '#005CAF', // 
+        color: '#005CAF', //
       },
       {
         key: 'RURIKON',
-        color: '#0B346E', // 
+        color: '#0B346E', //
       },
       {
         key: 'BENIMIDORI',
-        color: '#7B90D2', // 
+        color: '#7B90D2', //
       },
       {
         key: 'FUJINEZUMI',
-        color: '#6E75A4', // 
+        color: '#6E75A4', //
       },
       {
         key: 'TETSUKON',
-        color: '#261E47', // 
+        color: '#261E47', //
       },
       {
         key: 'KONJYO',
-        color: '#113285', // 
+        color: '#113285', //
       },
       {
         key: 'BENIKAKEHANA',
-        color: '#4E4F97', // 
+        color: '#4E4F97', //
       },
       {
         key: 'KONKIKYO',
-        color: '#211E55', // 
+        color: '#211E55', //
       },
       {
         key: 'FUJI',
-        color: '#8B81C3', // 
+        color: '#8B81C3', //
       },
       {
         key: 'FUTAAI',
-        color: '#70649A', // 
+        color: '#70649A', //
       },
       {
         key: 'OUCHI',
-        color: '#9B90C2', // 
+        color: '#9B90C2', //
       },
       {
         key: 'FUJIMURASAKI',
-        color: '#8A6BBE', // 
+        color: '#8A6BBE', //
       },
       {
         key: 'FKIKYO',
-        color: '#6A4C9C', // 
+        color: '#6A4C9C', //
       },
       {
         key: 'SHION',
-        color: '#8F77B5', // 
+        color: '#8F77B5', //
       },
       {
         key: 'MESSHI',
-        color: '#533D5B', // 
+        color: '#533D5B', //
       },
       {
         key: 'USU',
-        color: '#B28FCE', // 
+        color: '#B28FCE', //
       },
       {
         key: 'HASHITA',
-        color: '#986DB2', // 
+        color: '#986DB2', //
       },
       {
         key: 'EDOMURASAKI',
-        color: '#77428D', // 
+        color: '#77428D', //
       },
       {
         key: 'SHIKON',
-        color: '#3C2F41', // 
+        color: '#3C2F41', //
       },
       {
         key: 'KOKIMURASAKI',
-        color: '#4A225D', // 
+        color: '#4A225D', //
       },
       {
         key: 'SUMIRE',
-        color: '#66327C', // 
+        color: '#66327C', //
       },
       {
         key: 'MURASAKI',
-        color: '#592C63', // 
+        color: '#592C63', //
       },
       {
         key: 'AYAME',
-        color: '#6F3381', // 
+        color: '#6F3381', //
       },
       {
         key: 'FUJISUSUTAKE',
-        color: '#574C57', // 
+        color: '#574C57', //
       },
       {
         key: 'BENIFUJI',
-        color: '#B481BB', // 
+        color: '#B481BB', //
       },
       {
         key: 'KUROBENI',
-        color: '#3F2B36', // 
+        color: '#3F2B36', //
       },
       {
         key: 'NASUKON',
-        color: '#572A3F', // 
+        color: '#572A3F', //
       },
       {
         key: 'BUDOHNEZUMI',
-        color: '#5E3D50', // 
+        color: '#5E3D50', //
       },
       {
         key: 'HATOBANEZUMI',
-        color: '#72636E', // 
+        color: '#72636E', //
       },
       {
         key: 'KAKITSUBATA',
-        color: '#622954', // 
+        color: '#622954', //
       },
       {
         key: 'EBIZOME',
-        color: '#6D2E5B', // 
+        color: '#6D2E5B', //
       },
       {
         key: 'BOTAN',
-        color: '#C1328E', // 
+        color: '#C1328E', //
       },
       {
         key: 'UMEMURASAKI',
-        color: '#A8497A', // 
+        color: '#A8497A', //
       },
       {
         key: 'NISEMURASAKI',
-        color: '#562E37', // 
+        color: '#562E37', //
       },
       {
         key: 'TSUTSUJI',
-        color: '#E03C8A', // 
+        color: '#E03C8A', //
       },
       {
         key: 'MURASAKITOBI',
-        color: '#60373E', // 
+        color: '#60373E', //
       },
-
-
     ];
   }
   return (

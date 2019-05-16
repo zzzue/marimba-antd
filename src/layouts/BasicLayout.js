@@ -115,7 +115,7 @@ class BasicLayout extends React.Component {
     const isTop = PropsLayout === 'topmenu';
     const contentStyle = !fixedHeader ? { paddingTop: 0 } : {};
     const bodyClassName = classNames({
-      [styles.dark]: navTheme=== 'dark',
+      [styles.dark]: navTheme === 'dark',
     });
     const layout = (
       <Layout>
@@ -147,9 +147,7 @@ class BasicLayout extends React.Component {
           <Content className={styles.content} style={contentStyle}>
             {children}
           </Content>
-          <Footer 
-            theme={navTheme} 
-          />
+          <Footer theme={navTheme} />
         </Layout>
       </Layout>
     );
